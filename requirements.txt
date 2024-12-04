@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+gym
+torch          # If using PyTorch
+tensorflow     # If using TensorFlow
+stable-baselines3   # Commonly used RL framework with PyTorch backend
+keras-rl2      # If using TensorFlow with Keras for RL
+opencv-python  # For image processing (if needed)
+scikit-learn   # For additional ML tools
+tqdm           # For progress bars
+seaborn        # For enhanced visualizations (optional)
